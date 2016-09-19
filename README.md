@@ -1,1 +1,1 @@
-# Automatic-License-Plate-Reader
+# Automatic-License-Plate-Reader (ALPR)

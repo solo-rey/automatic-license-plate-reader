@@ -5,7 +5,7 @@ This repository contains the source code and supporting images that uses Optical
 ## Getting Started
 
 
-Reequiremnts- 
+### Requirements- 
 - OPENCV2
 - Tesseract [https://github.com/tesseract-ocr/tesseract]
 

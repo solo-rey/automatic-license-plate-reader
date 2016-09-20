@@ -2,6 +2,10 @@
 
 This repository contains the source code and supporting images that uses Optical Character Recognition (OCR) method to read the license plate of a car and convert it into alphanumeric characters.
 
+Reequiremnts- 
+- OPENCV2
+- Tesseract [https://github.com/tesseract-ocr/tesseract]
+
 
 
 
